@@ -1,6 +1,8 @@
 package pro.sky.java.course2.string_list_class.service;
 public interface StringList {
 
+    void printList();
+
     // Добавление элемента.
     // Вернуть добавленный элемент
     // в качестве результата выполнения.
